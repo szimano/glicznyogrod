@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F0036438-1740-1315-5E89-9B7917611CC8}") = "GlicznyOgrod", "Assembly-CSharp.csproj", "{A991BD39-B052-D1F9-8FA6-3828925EA16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A991BD39-B052-D1F9-8FA6-3828925EA16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A991BD39-B052-D1F9-8FA6-3828925EA16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A991BD39-B052-D1F9-8FA6-3828925EA16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A991BD39-B052-D1F9-8FA6-3828925EA16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
