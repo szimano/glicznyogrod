@@ -8,7 +8,9 @@ public class LevelManager : MonoBehaviour {
 	public float autoLoadNextLevelAfter;
 
 	void Start() {
-		Invoke("LoadNextLevel", autoLoadNextLevelAfter);
+		if (autoLoadNextLevelAfter > 0) {
+			Invoke("LoadNextLevel", autoLoadNextLevelAfter);
+		}
 	}
 
 	public void QuitRequest() {
@@ -19,5 +21,9 @@ public class LevelManager : MonoBehaviour {
 	public void LoadNextLevel ()
 	{
 		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+	}
+
+	public void LoadLevel(string level) {
+		SceneManager.LoadScene(level);
 	}
 }
