@@ -7,7 +7,7 @@ public class MusicManager : MonoBehaviour {
 
 	public AudioClip[] levelMusicChangeArray;
 
-	private AudioSource audio;
+	private AudioSource audioSource;
 
 	// Use this for initialization
 	void Awake () {
@@ -15,13 +15,17 @@ public class MusicManager : MonoBehaviour {
 	}
 
 	void Start() {
-		audio = GetComponent<AudioSource>();
+		audioSource = GetComponent<AudioSource>();
 	}
 
 	void OnLevelWasLoaded(int level) {
-		audio.Stop();
-		audio.clip = levelMusicChangeArray[level];
-		audio.Play();
+		AudioClip clip = levelMusicChangeArray[level];
+
+		if (clip) {
+			audioSource.Stop();
+			audioSource.clip = clip;
+			audioSource.Play();
+		}
 	}
 	
 	// Update is called once per frame
