@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{F0036438-1740-1315-5E89-9B7917611CC8}") = "GlicznyOgrod", "Assembly-CSharp.csproj", "{A991BD39-B052-D1F9-8FA6-3828925EA16C}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlicznyOgrod", "Assembly-CSharp.csproj", "{A991BD39-B052-D1F9-8FA6-3828925EA16C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
