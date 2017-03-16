@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 14512d42ec5724dd5ae7252566124195
+timeCreated: 1489696629
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: npc_cactus__x1_talk_png_1354833515_0
@@ -80,6 +82,97 @@ TextureImporter:
     21300150: npc_cactus__x1_talk_png_1354833515_75
     21300152: npc_cactus__x1_talk_png_1354833515_76
     21300154: npc_cactus__x1_talk_png_1354833515_77
+    21300156: attack_0
+    21300158: attack_1
+    21300160: attack_2
+    21300162: attack_3
+    21300164: attack_4
+    21300166: attack_5
+    21300168: attack_6
+    21300170: attack_7
+    21300172: attack_8
+    21300174: attack_9
+    21300176: attack_10
+    21300178: attack_11
+    21300180: attack_12
+    21300182: attack_13
+    21300184: attack_14
+    21300186: attack_15
+    21300188: attack_16
+    21300190: attack_17
+    21300192: attack_18
+    21300194: attack_19
+    21300196: attack_20
+    21300198: attack_21
+    21300200: attack_22
+    21300202: attack_23
+    21300204: attack_24
+    21300206: attack_25
+    21300208: attack_26
+    21300210: attack_27
+    21300212: attack_28
+    21300214: attack_29
+    21300216: attack_30
+    21300218: attack_31
+    21300220: attack_32
+    21300222: attack_33
+    21300224: attack_34
+    21300226: attack_35
+    21300228: attack_36
+    21300230: attack_37
+    21300232: attack_38
+    21300234: attack_39
+    21300236: attack_40
+    21300238: attack_41
+    21300240: attack_42
+    21300242: attack_43
+    21300244: attack_44
+    21300246: attack_45
+    21300248: attack_46
+    21300250: attack_47
+    21300252: attack_48
+    21300254: attack_49
+    21300256: attack_50
+    21300258: attack_51
+    21300260: attack_52
+    21300262: attack_53
+    21300264: attack_54
+    21300266: attack_55
+    21300268: attack_56
+    21300270: attack_57
+    21300272: attack_58
+    21300274: attack_59
+    21300276: attack_60
+    21300278: attack_61
+    21300280: attack_62
+    21300282: attack_63
+    21300284: attack_64
+    21300286: attack_65
+    21300288: attack_66
+    21300290: attack_67
+    21300292: attack_68
+    21300294: attack_69
+    21300296: attack_70
+    21300298: attack_71
+    21300300: attack_72
+    21300302: attack_73
+    21300304: attack_74
+    21300306: attack_75
+    21300308: attack_76
+    21300310: attack_77
+    21300312: attack_78
+    21300314: attack_79
+    21300316: attack_80
+    21300318: attack_81
+    21300320: attack_82
+    21300322: attack_83
+    21300324: attack_84
+    21300326: attack_85
+    21300328: attack_86
+    21300330: attack_87
+    21300332: attack_88
+    21300334: attack_89
+    21300336: attack_90
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -134,1023 +227,1224 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_0
+      name: attack_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 10
         y: 1512
-        width: 157
-        height: 126
+        width: 136
+        height: 118
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_1
+      name: attack_1
       rect:
         serializedVersion: 2
-        x: 157
+        x: 174
         y: 1512
-        width: 157
-        height: 126
+        width: 135
+        height: 119
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_2
+      name: attack_2
       rect:
         serializedVersion: 2
-        x: 314
+        x: 335
         y: 1512
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_3
+      name: attack_3
       rect:
         serializedVersion: 2
-        x: 471
-        y: 1512
-        width: 157
-        height: 126
+        x: 348
+        y: 1627
+        width: 9
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_4
+      name: attack_4
       rect:
         serializedVersion: 2
-        x: 628
+        x: 486
         y: 1512
-        width: 157
-        height: 126
+        width: 137
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_5
+      name: attack_5
       rect:
         serializedVersion: 2
-        x: 785
+        x: 635
         y: 1512
-        width: 157
-        height: 126
+        width: 139
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_6
+      name: attack_6
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1512
+        width: 134
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_7
       rect:
         serializedVersion: 2
         x: 0
         y: 1386
-        width: 157
-        height: 126
+        width: 131
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_7
+      name: attack_8
       rect:
         serializedVersion: 2
-        x: 157
+        x: 161
         y: 1386
-        width: 157
-        height: 126
+        width: 136
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_8
+      name: attack_9
       rect:
         serializedVersion: 2
-        x: 314
+        x: 322
         y: 1386
-        width: 157
-        height: 126
+        width: 139
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_9
+      name: attack_10
       rect:
         serializedVersion: 2
-        x: 471
+        x: 486
         y: 1386
-        width: 157
-        height: 126
+        width: 137
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_10
+      name: attack_11
       rect:
         serializedVersion: 2
-        x: 628
+        x: 505
+        y: 1500
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_12
+      rect:
+        serializedVersion: 2
+        x: 649
         y: 1386
-        width: 157
-        height: 126
+        width: 135
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_11
+      name: attack_13
       rect:
         serializedVersion: 2
-        x: 785
+        x: 795
         y: 1386
-        width: 157
-        height: 126
+        width: 136
+        height: 118
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_12
+      name: attack_14
       rect:
         serializedVersion: 2
-        x: 0
+        x: 17
         y: 1260
-        width: 157
-        height: 126
+        width: 134
+        height: 118
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_13
+      name: attack_15
       rect:
         serializedVersion: 2
-        x: 157
+        x: 178
         y: 1260
-        width: 157
-        height: 126
+        width: 135
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_14
+      name: attack_16
       rect:
         serializedVersion: 2
-        x: 314
+        x: 192
+        y: 1375
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_17
+      rect:
+        serializedVersion: 2
+        x: 330
         y: 1260
-        width: 157
-        height: 126
+        width: 137
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_15
+      name: attack_18
       rect:
         serializedVersion: 2
-        x: 471
+        x: 479
         y: 1260
-        width: 157
-        height: 126
+        width: 140
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_16
+      name: attack_19
       rect:
         serializedVersion: 2
-        x: 628
+        x: 634
         y: 1260
-        width: 157
-        height: 126
+        width: 134
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_17
+      name: attack_20
       rect:
         serializedVersion: 2
-        x: 785
+        x: 791
         y: 1260
-        width: 157
-        height: 126
+        width: 134
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_18
+      name: attack_21
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 1134
-        width: 157
-        height: 126
+        width: 130
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_19
+      name: attack_22
       rect:
         serializedVersion: 2
-        x: 157
+        x: 162
         y: 1134
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_20
+      name: attack_23
       rect:
         serializedVersion: 2
-        x: 314
+        x: 323
         y: 1134
-        width: 157
-        height: 126
+        width: 139
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_21
+      name: attack_24
       rect:
         serializedVersion: 2
-        x: 471
+        x: 487
         y: 1134
-        width: 157
-        height: 126
+        width: 136
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_22
+      name: attack_25
       rect:
         serializedVersion: 2
-        x: 628
+        x: 506
+        y: 1248
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_26
+      rect:
+        serializedVersion: 2
+        x: 649
         y: 1134
-        width: 157
-        height: 126
+        width: 134
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_23
+      name: attack_27
       rect:
         serializedVersion: 2
-        x: 785
+        x: 802
         y: 1134
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_24
+      name: attack_28
       rect:
         serializedVersion: 2
-        x: 0
+        x: 10
         y: 1008
-        width: 157
-        height: 126
+        width: 136
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_25
+      name: attack_29
       rect:
         serializedVersion: 2
-        x: 157
+        x: 174
         y: 1008
-        width: 157
-        height: 126
+        width: 134
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_26
+      name: attack_30
       rect:
         serializedVersion: 2
-        x: 314
+        x: 334
         y: 1008
-        width: 157
-        height: 126
+        width: 136
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_27
+      name: attack_31
       rect:
         serializedVersion: 2
-        x: 471
+        x: 405
+        y: 1121
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_32
+      rect:
+        serializedVersion: 2
+        x: 486
         y: 1008
-        width: 157
-        height: 126
+        width: 137
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_28
+      name: attack_33
       rect:
         serializedVersion: 2
-        x: 628
+        x: 635
         y: 1008
-        width: 157
-        height: 126
+        width: 139
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_29
+      name: attack_34
       rect:
         serializedVersion: 2
-        x: 785
+        x: 661
+        y: 1121
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_35
+      rect:
+        serializedVersion: 2
+        x: 789
         y: 1008
-        width: 157
-        height: 126
+        width: 136
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_30
+      name: attack_36
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 882
-        width: 157
-        height: 126
+        width: 132
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_31
+      name: attack_37
       rect:
         serializedVersion: 2
-        x: 157
+        x: 161
         y: 882
-        width: 157
-        height: 126
+        width: 135
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_32
+      name: attack_38
       rect:
         serializedVersion: 2
-        x: 314
+        x: 322
         y: 882
-        width: 157
-        height: 126
+        width: 139
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_33
+      name: attack_39
       rect:
         serializedVersion: 2
-        x: 471
+        x: 486
         y: 882
-        width: 157
-        height: 126
+        width: 137
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_34
+      name: attack_40
       rect:
         serializedVersion: 2
-        x: 628
+        x: 563
+        y: 995
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_41
+      rect:
+        serializedVersion: 2
+        x: 649
         y: 882
-        width: 157
-        height: 126
+        width: 135
+        height: 118
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_35
+      name: attack_42
       rect:
         serializedVersion: 2
-        x: 785
+        x: 805
         y: 882
-        width: 157
-        height: 126
+        width: 134
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_36
+      name: attack_43
       rect:
         serializedVersion: 2
-        x: 0
+        x: 820
+        y: 996
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_44
+      rect:
+        serializedVersion: 2
+        x: 17
         y: 756
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_37
+      name: attack_45
       rect:
         serializedVersion: 2
-        x: 157
+        x: 170
         y: 756
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_38
+      name: attack_46
       rect:
         serializedVersion: 2
-        x: 314
+        x: 326
         y: 756
-        width: 157
-        height: 126
+        width: 135
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_39
+      name: attack_47
       rect:
         serializedVersion: 2
-        x: 471
+        x: 482
         y: 756
-        width: 157
-        height: 126
+        width: 135
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_40
+      name: attack_48
       rect:
         serializedVersion: 2
-        x: 628
+        x: 639
         y: 756
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_41
+      name: attack_49
       rect:
         serializedVersion: 2
-        x: 785
+        x: 796
         y: 756
-        width: 157
-        height: 126
+        width: 136
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_42
+      name: attack_50
       rect:
         serializedVersion: 2
-        x: 0
+        x: 831
+        y: 869
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_51
+      rect:
+        serializedVersion: 2
+        x: 11
         y: 630
-        width: 157
-        height: 126
+        width: 136
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_43
+      name: attack_52
       rect:
         serializedVersion: 2
-        x: 157
+        x: 37
+        y: 743
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_53
+      rect:
+        serializedVersion: 2
+        x: 175
         y: 630
-        width: 157
-        height: 126
+        width: 134
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_44
+      name: attack_54
       rect:
         serializedVersion: 2
-        x: 314
+        x: 336
         y: 630
-        width: 157
-        height: 126
+        width: 134
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_45
+      name: attack_55
       rect:
         serializedVersion: 2
-        x: 471
+        x: 487
         y: 630
-        width: 157
-        height: 126
+        width: 137
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_46
+      name: attack_56
       rect:
         serializedVersion: 2
-        x: 628
+        x: 636
         y: 630
-        width: 157
-        height: 126
+        width: 139
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_47
+      name: attack_57
       rect:
         serializedVersion: 2
-        x: 785
+        x: 790
         y: 630
-        width: 157
-        height: 126
+        width: 134
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_48
+      name: attack_58
       rect:
         serializedVersion: 2
-        x: 0
+        x: 877
+        y: 743
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_59
+      rect:
+        serializedVersion: 2
+        x: 2
         y: 504
-        width: 157
-        height: 126
+        width: 130
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_49
+      name: attack_60
       rect:
         serializedVersion: 2
-        x: 157
+        x: 43
+        y: 618
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_61
+      rect:
+        serializedVersion: 2
+        x: 161
         y: 504
-        width: 157
-        height: 126
+        width: 136
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_50
+      name: attack_62
       rect:
         serializedVersion: 2
-        x: 314
+        x: 191
+        y: 618
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_63
+      rect:
+        serializedVersion: 2
+        x: 322
         y: 504
-        width: 157
-        height: 126
+        width: 139
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_51
+      name: attack_64
       rect:
         serializedVersion: 2
-        x: 471
+        x: 486
         y: 504
-        width: 157
-        height: 126
+        width: 136
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_52
+      name: attack_65
       rect:
         serializedVersion: 2
-        x: 628
+        x: 648
         y: 504
-        width: 157
-        height: 126
+        width: 136
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_53
+      name: attack_66
       rect:
         serializedVersion: 2
-        x: 785
+        x: 794
         y: 504
-        width: 157
-        height: 126
+        width: 135
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_54
+      name: attack_67
       rect:
         serializedVersion: 2
-        x: 0
+        x: 8
         y: 378
-        width: 157
-        height: 126
+        width: 137
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_55
+      name: attack_68
       rect:
         serializedVersion: 2
-        x: 157
+        x: 166
         y: 378
-        width: 157
-        height: 126
+        width: 137
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_56
+      name: attack_69
       rect:
         serializedVersion: 2
-        x: 314
+        x: 247
+        y: 491
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_70
+      rect:
+        serializedVersion: 2
+        x: 322
         y: 378
-        width: 157
-        height: 126
+        width: 139
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_57
+      name: attack_71
       rect:
         serializedVersion: 2
-        x: 471
+        x: 477
         y: 378
-        width: 157
-        height: 126
+        width: 142
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_58
+      name: attack_72
       rect:
         serializedVersion: 2
-        x: 628
+        x: 636
         y: 378
-        width: 157
-        height: 126
+        width: 139
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_59
+      name: attack_73
       rect:
         serializedVersion: 2
-        x: 785
+        x: 795
         y: 378
-        width: 157
-        height: 126
+        width: 137
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_60
+      name: attack_74
       rect:
         serializedVersion: 2
-        x: 0
+        x: 17
         y: 252
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_61
+      name: attack_75
       rect:
         serializedVersion: 2
-        x: 157
+        x: 178
         y: 252
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_62
+      name: attack_76
       rect:
         serializedVersion: 2
-        x: 314
+        x: 330
         y: 252
-        width: 157
-        height: 126
+        width: 136
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_63
+      name: attack_77
       rect:
         serializedVersion: 2
-        x: 471
+        x: 479
         y: 252
-        width: 157
-        height: 126
+        width: 140
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_64
+      name: attack_78
       rect:
         serializedVersion: 2
-        x: 628
+        x: 633
         y: 252
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_65
+      name: attack_79
       rect:
         serializedVersion: 2
-        x: 785
+        x: 664
+        y: 366
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_80
+      rect:
+        serializedVersion: 2
+        x: 788
         y: 252
-        width: 157
-        height: 126
+        width: 130
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_66
+      name: attack_81
       rect:
         serializedVersion: 2
-        x: 0
+        x: 5
         y: 126
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_67
+      name: attack_82
       rect:
         serializedVersion: 2
-        x: 157
+        x: 167
         y: 126
-        width: 157
-        height: 126
+        width: 139
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_68
+      name: attack_83
       rect:
         serializedVersion: 2
-        x: 314
+        x: 330
         y: 126
-        width: 157
-        height: 126
+        width: 137
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_69
+      name: attack_84
       rect:
         serializedVersion: 2
-        x: 471
+        x: 493
         y: 126
-        width: 157
-        height: 126
+        width: 135
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_70
+      name: attack_85
       rect:
         serializedVersion: 2
-        x: 628
+        x: 646
         y: 126
-        width: 157
-        height: 126
+        width: 134
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_71
+      name: attack_86
       rect:
         serializedVersion: 2
-        x: 785
+        x: 796
         y: 126
-        width: 157
-        height: 126
+        width: 135
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_72
+      name: attack_87
       rect:
         serializedVersion: 2
-        x: 0
+        x: 17
         y: 0
-        width: 157
-        height: 126
+        width: 135
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_73
+      name: attack_88
       rect:
         serializedVersion: 2
-        x: 157
-        y: 0
-        width: 157
-        height: 126
+        x: 44
+        y: 114
+        width: 9
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_74
+      name: attack_89
       rect:
         serializedVersion: 2
-        x: 314
+        x: 167
         y: 0
-        width: 157
-        height: 126
+        width: 136
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_75
+      name: attack_90
       rect:
         serializedVersion: 2
-        x: 471
-        y: 0
-        width: 157
-        height: 126
+        x: 249
+        y: 113
+        width: 9
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_76
-      rect:
-        serializedVersion: 2
-        x: 628
-        y: 0
-        width: 157
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: npc_cactus__x1_talk_png_1354833515_77
-      rect:
-        serializedVersion: 2
-        x: 785
-        y: 0
-        width: 157
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
