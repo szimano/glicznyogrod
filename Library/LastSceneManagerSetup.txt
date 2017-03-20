@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scene/00 Splash.unity
+- path: Assets/_Scene/02 Level 01.unity
   isLoaded: 1
   isActive: 1
